@@ -1,2 +1,2 @@
-# MyImageHolder
-MyImageHolder, GRRRRR
+# BeanStock
+BeanStock will be soon turned into a image hosting platform...
